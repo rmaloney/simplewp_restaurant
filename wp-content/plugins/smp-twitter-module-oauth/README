@@ -1,0 +1,57 @@
+=== Cross Post Blog Posts to Twitter using OAUTH - SMP Twitter Module ===
+Contributors: socialmediapack
+Donate Link: http://www.socialmediapack.co.uk/wordpress/social-media-pack-twitter-plugin-with-oauth/
+Tags: twitter, social networking, cross posting
+Requires at least: 2.0
+Tested up to: 3.0.1
+Stable tag: 1.3.1
+
+Cross post your Wordpress blog posts directly to twitter using the OAUTH methed and very simple installation.
+
+== Description ==
+
+The Social Media Pack Twitter Module was written to cross post Blog Post's directly to Twitter using OAUTH. The plugin will automatically crop Title and Description when posting and provide a is.gd link back to the original post.
+
+== Installation ==
+
+1. Upload socialmediapack.zip
+2. Activate the plugin
+3. Go to the "Settings" menu and select "SMP - Twitter", follow the instructions
+   to authorize and link your twitter account with your wordpress site
+
+== Frequently Asked Questions ==
+
+= Is it free? =
+
+Yes.
+
+= Is it simple to manage? =
+
+Yes.
+
+== Screenshots ==
+
+1. After Installation, click on the Twitter button.
+2. This screen will display briefly while it connects to Twitter.
+3. Sign in to Twitter to confirm authorisation or if already logged in confirm.
+4. Confirmation of success screen.
+
+== Changelog ==
+
+= 1.0 =
+* Brought into existence
+= 1,1 =
+* Tidying up Readme
+= 1.2 =
+* Strips html tags from Title and Description
+= 1.3 =
+* Corrected installation problem where the call back following installation was pointing to the incorrect path
+= 1.3.1 =
+* Changed the plugin Title and Decription and added screen shots.
+
+== Upgrade Notice ==
+
+1. None
+
+== Arbitrary section ==
+More information & support: http://www.socialmediapack.co.uk/wordpress/#/social-media-pack-twitter-plugin-with-oauth/

@@ -1,0 +1,12 @@
+a { color: #5d91a3; }
+
+#page-bg { background: #144743 url(images/blue/page-top.jpg) no-repeat center bottom; }
+#searchbutton { background: url(images/blue/search_btn.png) no-repeat; }
+
+a.readmore { background: url(images/blue/readmore.png) no-repeat bottom right; }
+	a.readmore span { background: url(images/blue/readmore.png) no-repeat; }
+
+.reply-container { background: url(images/blue/readmore.png) no-repeat bottom right; }
+	.reply-container a { background: url(images/blue/readmore.png) no-repeat; }
+	
+#page-top p.meta-info, #page-top p.meta-info a { color: #d1d1d1; }

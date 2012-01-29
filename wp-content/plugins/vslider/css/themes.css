@@ -1,0 +1,49 @@
+/*-----------------------------------------------------------------------------------------------*/
+/*                                         THEMEs STYLES                                        */
+/*-----------------------------------------------------------------------------------------------*/
+
+/* Definition Lists */
+.theme{
+   color:#333; float:left;
+   margin: 10px 20px 10px 20px; 
+    width:200px;
+    background: #fff;
+    padding:0px 15px 15px 15px;
+	font-size:16px; 
+    border:1px solid #efefef;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.theme img{
+    border:1px solid #efefef;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+dt{
+	margin-top:30px;
+	position:relative;
+	cursor:pointer;	
+}
+dt h4{ clear:both;font-size:16px;margin-top: 10px;}
+dt p{  text-align:center;font-size:10px; margin-top: -15px;}
+
+dd{
+	font-size:14px;
+	color:#444;
+	line-height:1.5;
+	padding:10px 0 0 5px;
+	display:none;
+}
+
+dd .description{
+    width:60%;
+    border-right:1px solid #efefef;
+}
+
+dd .buttons{
+    width:40%;
+    padding-left:10px;
+}

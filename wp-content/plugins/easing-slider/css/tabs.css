@@ -1,0 +1,39 @@
+#content-explorer {
+	padding-top: 20px;
+	width:100%;
+	line-height:normal;
+	}
+	#content-explorer ul {
+		list-style: none;
+		height:29px;
+		border-bottom:2px solid #aaa;
+		width: 820px;
+		}
+		#content-explorer ul li {
+      background:url(../images/unselected_admin.jpg) repeat-x top left;
+			float: left;
+			padding: 6px 5px;
+      border: 1px solid #aaa;
+			}
+			#content-explorer ul li a {
+				display: block;
+        margin: 0 auto;text-align:center;
+				color: #464646;text-decoration:none;
+			}
+			#content-explorer ul li a:hover {
+				color: #343434;
+			}
+			#content-explorer ul li.selected {
+       background:url(../images/selected_admin.jpg) repeat-x top left;
+			}
+			#content-explorer ul li.selected a {
+       	padding: 0;font-size:12px;
+				color: #fff;
+			}
+.yui-content {
+}
+
+.submitbutton {
+	float: left;
+	width: 100%;
+}

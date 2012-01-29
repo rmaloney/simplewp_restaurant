@@ -1,0 +1,33 @@
+/*********************************************************
+* TRUEedit CSS Support Library
+* Package: TRUEedit
+* Author: Zachary Segal
+* Author URI: http://www.illproductions.com/
+**********************************************************/
+.trueedit-fullscreen {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	z-index: 100;
+	background-color: #ededed;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+.trueedit-fullscreen #editorcontainer {
+	position: absolute;
+	top: 63px;
+	bottom: 10px;
+	right: 0px;
+	left: 0px;
+	margin: 0 0 20px 0;
+}
+.trueedit-fullscreen textarea {
+	position: relative;
+	height: 100% !important;
+}
+.trueedit-fullscreen #post-status-info {
+	position: absolute;
+	bottom: 0px;
+}

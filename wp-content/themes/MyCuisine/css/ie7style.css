@@ -1,0 +1,13 @@
+a { cursor: pointer; }
+#footer-bottom .container { padding: 26px 0 16px; }
+#footer-bottom { padding: 0; }
+
+#top { z-index: 2; }
+#content { z-index: 1; }
+
+#menu-right { display: none; }
+.widget-content { background: #fff; }
+
+p#quote-line-1 { font-size: 24px; }
+
+#controllers #switcher-content a { display: block; float: left; }

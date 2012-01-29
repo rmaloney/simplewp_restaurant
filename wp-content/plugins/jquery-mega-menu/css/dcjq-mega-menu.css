@@ -1,0 +1,5 @@
+.dcjq-mega-menu ul, .dcjq-mega-menu ul li {list-style: none;}
+.dcjq-mega-menu ul.menu {position: relative; padding: 0; margin: 0;}
+.dcjq-mega-menu ul li ul {display: none;}
+.dcjq-mega-menu .sub {display: none;}
+.dcjq-mega-menu .sub ul {display: block;}

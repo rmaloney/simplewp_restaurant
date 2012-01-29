@@ -1,0 +1,55 @@
+
+/** icon (main menu) */
+#toplevel_page_wow-slider-wordpress-image-slider-plugin-admin .wp-menu-image img {
+    background: url("icons.png") no-repeat 1px 4px;
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+body.admin-color-classic #toplevel_page_wow-slider-wordpress-image-slider-plugin-admin .wp-menu-image img {
+    background-position: 1px -29px;
+}
+#toplevel_page_wow-slider-wordpress-image-slider-plugin-admin.wp-has-current-submenu .wp-menu-image img,
+body.admin-color-classic #toplevel_page_wow-slider-wordpress-image-slider-plugin-admin.wp-has-current-submenu .wp-menu-image img,
+body.admin-color-classic #toplevel_page_wow-slider-wordpress-image-slider-plugin-admin:hover .wp-menu-image img,
+#toplevel_page_wow-slider-wordpress-image-slider-plugin-admin:hover .wp-menu-image img {
+    background-position: 1px -63px;
+}
+
+/** icon (header) */
+#icon-wowslider {
+    background: url("icons32.png") no-repeat 0 2px; 
+}
+body.admin-color-classic #icon-wowslider {
+    background-position: 0 -59px; 
+}
+
+/** table */
+.wowslider-list-table .column-images img {
+    width:60px;
+    padding:2px;
+    background:#fff;
+    border:1px solid #ccc;
+}
+.wowslider-list-table .column-images a:hover img {
+    border:1px solid #999;
+}
+.wowslider-list-table .column-code small {
+    font-size:10px;
+    color:#707070;
+}
+
+/** wowslider preview */
+body.wp-admin #wowslider-view { margin-top:50px; }
+strong.shortcode {
+    margin-top:30px;
+    display:block;
+    text-align:center;
+    font-size:12px;
+    font-weight:normal;
+    line-height:24px;
+    color:#aaa;
+}
+strong.shortcode code {
+    font-size:16px;
+    color:#333;
+}

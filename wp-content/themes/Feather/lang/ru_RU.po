@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Feather 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-02 18:21+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ann <anochka1985@gmail.com>\n"
+"Language-Team: Ann <anochka1985@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Пожалуйста, не загружайте эту страницу напрямую. Спасибо!"
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Эта страница защищена паролем. Введите пароль для просмотра комментариев."
+
+#: ../comments.php:19
+msgid "No Comments"
+msgstr "Нет комментариев"
+
+#: ../comments.php:19
+msgid "One Comment"
+msgstr "Один комментарий"
+
+#: ../comments.php:19
+msgid "Comments"
+msgstr "Коммент."
+
+#: ../comments.php:20
+msgid "Join the conversation and post a comment."
+msgstr "Присоединяйтесь к беседе и оставляйте комментарий."
+
+#: ../comments.php:44
+msgid "Trackbacks/Pingbacks"
+msgstr "Трекбеки/Пинги"
+
+#: ../comments.php:64
+#, fuzzy
+msgid "Submit Comment"
+msgstr "Нет комментариев"
+
+#: ../comments.php:64
+msgid "Leave a Comment"
+msgstr "Оставить комментарий "
+
+#: ../comments.php:64
+#, fuzzy, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставить комментарий к %s "
+
+#: ../footer.php:20
+msgid "Designed by "
+msgstr "Дизайн"
+
+#: ../footer.php:20
+msgid "Powered by "
+msgstr "Разработано на CMS"
+
+#: ../header.php:63
+msgid "Home"
+msgstr "Главная"
+
+#: ../home.php:47
+msgid "Recent Blog Posts"
+msgstr "Новые записи в блоге"
+
+#: ../home.php:67
+#: ../home.php:118
+msgid "More"
+msgstr "Далее"
+
+#: ../home.php:76
+msgid "Recent Work"
+msgstr "Последние работы"
+
+#: ../home.php:117
+#: ../page-gallery.php:66
+#: ../page-template-portfolio.php:113
+msgid "Zoom in"
+msgstr "Увеличить"
+
+#: ../home.php:132
+msgid "Previous"
+msgstr "Пред."
+
+#: ../home.php:133
+msgid "Next"
+msgstr "След."
+
+#: ../page-blog.php:46
+#: ../page-contact.php:88
+#: ../page-full.php:32
+#: ../page-gallery.php:42
+#: ../page-login.php:39
+#: ../page-search.php:39
+#: ../page-search.php:49
+#: ../page-sitemap.php:39
+#: ../page-sitemap.php:43
+#: ../page-template-portfolio.php:51
+#: ../page.php:27
+msgid "Pages"
+msgstr "Страницы"
+
+#: ../page-blog.php:61
+msgid "Posted"
+msgstr "Опубликовано"
+
+#: ../page-blog.php:61
+msgid "by"
+msgstr " "
+
+#: ../page-blog.php:61
+msgid "on"
+msgstr " "
+
+#: ../page-blog.php:61
+msgid "in"
+msgstr "в"
+
+#: ../page-blog.php:61
+msgid "0 comments"
+msgstr "Нет комментариев"
+
+#: ../page-blog.php:61
+msgid "1 comment"
+msgstr "1 коммент."
+
+#: ../page-blog.php:61
+msgid "comments"
+msgstr "коммент."
+
+#: ../page-blog.php:81
+msgid "read more"
+msgstr "далее"
+
+#: ../page-blog.php:104
+#: ../page-contact.php:137
+#: ../page-full.php:33
+#: ../page-gallery.php:84
+#: ../page-login.php:56
+#: ../page-search.php:85
+#: ../page-sitemap.php:76
+#: ../page-template-portfolio.php:159
+#: ../page.php:28
+msgid "Edit this page"
+msgstr "Редактировать страницу"
+
+#: ../page-contact.php:19
+msgid "Make sure you entered the captcha. "
+msgstr ""
+
+#: ../page-contact.php:23
+msgid "You entered the wrong number in captcha. "
+msgstr ""
+
+#: ../page-contact.php:32
+msgid "Make sure you fill all fields. "
+msgstr ""
+
+#: ../page-contact.php:37
+msgid "Invalid Email. "
+msgstr ""
+
+#: ../page-contact.php:58
+msgid "Thanks for contacting us"
+msgstr ""
+
+#: ../page-contact.php:98
+msgid "Name"
+msgstr "Имя"
+
+#: ../page-contact.php:102
+msgid "Email Address"
+msgstr ""
+
+#: ../page-contact.php:106
+msgid "Subject"
+msgstr ""
+
+#: ../page-contact.php:113
+msgid "Captcha: "
+msgstr ""
+
+#: ../page-contact.php:129
+msgid "Reset"
+msgstr ""
+
+#: ../page-contact.php:130
+#: ../page-search.php:77
+msgid "Submit"
+msgstr "Отправить"
+
+#: ../page-gallery.php:67
+#: ../page-template-portfolio.php:114
+msgid "Read more"
+msgstr ""
+
+#: ../page-login.php:45
+msgid "Username"
+msgstr ""
+
+#: ../page-login.php:46
+msgid "Password"
+msgstr ""
+
+#: ../page-login.php:50
+msgid "Not a member?"
+msgstr ""
+
+#: ../page-login.php:50
+msgid "Register today!"
+msgstr ""
+
+#: ../page-search.php:43
+msgid "search this website"
+msgstr ""
+
+#: ../page-search.php:46
+#, fuzzy
+msgid "search this site..."
+msgstr "Искать..."
+
+#: ../page-search.php:48
+msgid "Posts"
+msgstr ""
+
+#: ../page-search.php:52
+msgid "Select a month"
+msgstr ""
+
+#: ../page-sitemap.php:48
+msgid "Categories"
+msgstr ""
+
+#: ../page-sitemap.php:53
+msgid "Tags"
+msgstr ""
+
+#: ../page-sitemap.php:69
+msgid "Authors"
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr "Искать"
+
+#: ../includes/breadcrumbs.php:7
+msgid "Posts Tagged "
+msgstr "Посты с тэгами"
+
+#: ../includes/breadcrumbs.php:9
+#: ../includes/breadcrumbs.php:11
+#: ../includes/breadcrumbs.php:13
+msgid "Posts made in"
+msgstr "Посты от"
+
+#: ../includes/breadcrumbs.php:15
+msgid "Search results for"
+msgstr "Результаты поиска по"
+
+#: ../includes/breadcrumbs.php:24
+msgid "Posts by "
+msgstr "Опубликовано"
+
+#: ../includes/entry.php:24
+msgid "Read More"
+msgstr "Далее"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Предыдущие Записи"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Следующие Записи &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Ничего не найдено"
+
+#: ../includes/no-results.php:4
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "Запрашиваемая страница не найдена. Попробуйте уточнить параметры поиска или используйте меню для нахождения страницы."
+
+#: ../includes/top_info.php:5
+msgid "Posts Tagged &quot;"
+msgstr "Посты с тэгами &quot;"
+
+#: ../includes/functions/comments.php:17
+msgid "(Edit)"
+msgstr "(Ред.)"
+
+#: ../includes/functions/comments.php:22
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: ../includes/functions/comments.php:28
+msgid "Reply"
+msgstr "Ответить"
+
+#: ../includes/widgets/widget-search.php:15
+msgid "Search this site..."
+msgstr "Искать..."
+
+#~ msgid "You must be"
+#~ msgstr "Вы должны быть"
+#~ msgid "logged in"
+#~ msgstr "зарегистрированы"
+#~ msgid "to post a comment."
+#~ msgstr "чтобы комментировать."
+#~ msgid "Logged in as"
+#~ msgstr "Вы вошли как"
+#~ msgid "Log out &raquo;"
+#~ msgstr "Выйти &raquo;"
+#~ msgid "Mail (will not be published)"
+#~ msgstr "Email (не будет виден посетителям)"
+#~ msgid "Website"
+#~ msgstr "Сайт"
+#~ msgid "Your message..."
+#~ msgstr "Ваше сообщение..."
+

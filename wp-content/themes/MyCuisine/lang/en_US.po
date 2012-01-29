@@ -1,0 +1,342 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MyCuisine 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-02 18:40+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ann <anochka1985@gmail.com>\n"
+"Language-Team: Ann <anochka1985@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:19
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:19
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:19
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:43
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: ../comments.php:63
+msgid "Submit Comment"
+msgstr ""
+
+#: ../comments.php:63
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:63
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../footer.php:21
+msgid "Designed by "
+msgstr ""
+
+#: ../footer.php:21
+msgid "Powered by "
+msgstr ""
+
+#: ../header.php:60
+msgid "Home"
+msgstr ""
+
+#: ../home.php:20
+msgid "Chef's Recommendations"
+msgstr ""
+
+#: ../home.php:64
+msgid "Location and hours of operation"
+msgstr ""
+
+#: ../home.php:126
+msgid "Mon-Fri"
+msgstr ""
+
+#: ../home.php:126
+msgid "Sat-Sun"
+msgstr ""
+
+#: ../home.php:142
+msgid "Customer Testimonials"
+msgstr ""
+
+#: ../home.php:191
+msgid "Click Here To Browse The Menu"
+msgstr ""
+
+#: ../page-blog.php:49
+#: ../page-contact.php:91
+#: ../page-full.php:35
+#: ../page-gallery.php:45
+#: ../page-login.php:42
+#: ../page-search.php:42
+#: ../page-search.php:52
+#: ../page-sitemap.php:42
+#: ../page-sitemap.php:46
+#: ../page-template-portfolio.php:54
+msgid "Pages"
+msgstr ""
+
+#: ../page-blog.php:64
+msgid "Posted"
+msgstr ""
+
+#: ../page-blog.php:64
+msgid "by"
+msgstr ""
+
+#: ../page-blog.php:64
+msgid "on"
+msgstr ""
+
+#: ../page-blog.php:64
+msgid "in"
+msgstr ""
+
+#: ../page-blog.php:64
+msgid "0 comments"
+msgstr ""
+
+#: ../page-blog.php:64
+msgid "1 comment"
+msgstr ""
+
+#: ../page-blog.php:64
+msgid "comments"
+msgstr ""
+
+#: ../page-blog.php:84
+msgid "read more"
+msgstr ""
+
+#: ../page-blog.php:107
+#: ../page-contact.php:140
+#: ../page-full.php:36
+#: ../page-gallery.php:87
+#: ../page-login.php:59
+#: ../page-search.php:88
+#: ../page-sitemap.php:79
+#: ../page-template-portfolio.php:162
+msgid "Edit this page"
+msgstr ""
+
+#: ../page-contact.php:19
+msgid "Make sure you entered the captcha. "
+msgstr ""
+
+#: ../page-contact.php:23
+msgid "You entered the wrong number in captcha. "
+msgstr ""
+
+#: ../page-contact.php:32
+msgid "Make sure you fill all fields. "
+msgstr ""
+
+#: ../page-contact.php:37
+msgid "Invalid Email. "
+msgstr ""
+
+#: ../page-contact.php:58
+msgid "Thanks for contacting us"
+msgstr ""
+
+#: ../page-contact.php:101
+msgid "Name"
+msgstr ""
+
+#: ../page-contact.php:105
+msgid "Email Address"
+msgstr ""
+
+#: ../page-contact.php:109
+msgid "Subject"
+msgstr ""
+
+#: ../page-contact.php:116
+msgid "Captcha: "
+msgstr ""
+
+#: ../page-contact.php:132
+msgid "Reset"
+msgstr ""
+
+#: ../page-contact.php:133
+#: ../page-search.php:80
+msgid "Submit"
+msgstr ""
+
+#: ../page-gallery.php:69
+#: ../page-template-portfolio.php:116
+msgid "Zoom in"
+msgstr ""
+
+#: ../page-gallery.php:70
+#: ../page-template-portfolio.php:117
+msgid "Read more"
+msgstr ""
+
+#: ../page-login.php:48
+msgid "Username"
+msgstr ""
+
+#: ../page-login.php:49
+msgid "Password"
+msgstr ""
+
+#: ../page-login.php:53
+msgid "Not a member?"
+msgstr ""
+
+#: ../page-login.php:53
+msgid "Register today!"
+msgstr ""
+
+#: ../page-search.php:46
+msgid "search this website"
+msgstr ""
+
+#: ../page-search.php:49
+msgid "search this site..."
+msgstr ""
+
+#: ../page-search.php:51
+msgid "Posts"
+msgstr ""
+
+#: ../page-search.php:55
+msgid "Select a month"
+msgstr ""
+
+#: ../page-sitemap.php:51
+msgid "Categories"
+msgstr ""
+
+#: ../page-sitemap.php:56
+msgid "Tags"
+msgstr ""
+
+#: ../page-sitemap.php:72
+msgid "Authors"
+msgstr ""
+
+#: ../page-template-location.php:17
+msgid "Address"
+msgstr ""
+
+#: ../page-template-location.php:22
+msgid "Hours Of Operation"
+msgstr ""
+
+#: ../page-template-location.php:23
+msgid "Monday-Friday:"
+msgstr ""
+
+#: ../page-template-location.php:24
+msgid "Saturday-Sunday:"
+msgstr ""
+
+#: ../page-template-location.php:28
+msgid "Contact Info"
+msgstr ""
+
+#: ../page-template-location.php:29
+msgid "Email Address:"
+msgstr ""
+
+#: ../page-template-location.php:30
+msgid "Telephone:"
+msgstr ""
+
+#: ../page-template-location.php:31
+msgid "Fax:"
+msgstr ""
+
+#: ../searchform.php:4
+#: ../includes/breadcrumbs.php:35
+msgid "Search"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:10
+msgid "Posts Tagged "
+msgstr ""
+
+#: ../includes/breadcrumbs.php:12
+#: ../includes/breadcrumbs.php:14
+#: ../includes/breadcrumbs.php:16
+msgid "Posts made in"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:18
+msgid "Search results for"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:26
+msgid "Posts by "
+msgstr ""
+
+#: ../includes/breadcrumbs.php:34
+msgid "Search this website..."
+msgstr ""
+
+#: ../includes/entry.php:25
+msgid "Read More"
+msgstr ""
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr ""
+
+#: ../includes/no-results.php:4
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr ""
+
+#: ../includes/top_info.php:5
+msgid "Posts Tagged &quot;"
+msgstr ""
+
+#: ../includes/functions/comments.php:18
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/functions/comments.php:21
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/functions/comments.php:27
+msgid "Reply"
+msgstr ""
+

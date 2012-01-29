@@ -1,0 +1,52 @@
+                                                                     
+                                                                     
+     
+
+  <div class="grid_5">
+	<p><strong>Starters</strong></p>
+			<p>House cornbread, whipped honey butter </p> 
+			<p>Cup of fruit and yogurt  </p>
+			<p>Biscuits and Gravy  </p>                                                             
+                                             
+	<p><strong>Soups and Salads</strong></p>
+			<p>Soup du Jour </p>
+			<p>Wild mushroom bisque, fennel croutons, chili oil </p>
+			<p>Poached wild shrimp, chickpea, feta, watercress, 
+			citrus viniagrette</p> 
+			<p>Caesar Salad, romaine, anchovy, romano tuille 
+			Mixed greens, pickled red onions, cucumber,  
+			balsamic vinaigrette </p>
+			<p>Spinach, goat cheese, beets, walnuts, bacon, 
+			red wine vinaigrette </p>
+			<p>add chicken   add shrimp or salmon cake </p>
+               <p><strong>Sides</strong>
+			<p>Carmelized pepper bacon </p>
+			<p>House chips </p>
+			<p>House potatoes </p>
+			<p>Toasted bagel </p>
+			<p>Twin eggs and mornay </p>
+			<p>Truffle fries </p>
+  </div>
+	
+
+
+  <div class="grid_5">
+	<p><strong>Main Course</strong></p>
+		<p>Silverspoon scramble of the day, house potatoes  </p>
+		<p>Crab Omelette, watercress, roasted red peppers,        artichoke pestp, house potatoes  </p>
+		<p>Wild mushroom benedict, spinach, truffled mornay,    poached eggs, house potatoes  </p>
+		<p>Eggs benedict, ham, onion jam, hollandaise, poached eggs, house potatoes  </p>
+		<p>Biscuits and venison gravy, bacon marmalade, 
+		spiced fried eggs  </p>
+		<p>Smoked whitefish salad, toasted bagel, hard boiled egg, cucumber, red onions, capers  </p>
+		<p>Fench toast, brioche stuffed with apples, cinnamon whipped cream, apple sage compote </p> 
+		<p>Smoked pork belly hash, apples, yams, brussel sprouts, butternut squash, fried eggs  
+		Crispy salmon cake, market vegetables, hollondaise, concasse of fresh crab</p>
+
+
+
+		
+
+    </div>                                      
+
+

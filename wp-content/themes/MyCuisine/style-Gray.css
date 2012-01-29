@@ -1,0 +1,8 @@
+#page-bg { background: #242424 url(images/gray/page-top.jpg) no-repeat center bottom; }
+#searchbutton { background: url(images/gray/search_btn.png) no-repeat; }
+
+a.readmore { background: url(images/gray/readmore.png) no-repeat bottom right; }
+	a.readmore span { background: url(images/gray/readmore.png) no-repeat; }
+
+.reply-container { background: url(images/gray/readmore.png) no-repeat bottom right; }
+	.reply-container a { background: url(images/gray/readmore.png) no-repeat; }

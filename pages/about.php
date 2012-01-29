@@ -1,0 +1,8 @@
+<p><img src="http://localhost/ss_simon_theme/wp-content/uploads/2011/10/skewers-300x215.png" alt="" title="skewers" width="300" height="215" class="alignleft size-medium wp-image-293 grey_border" style="margin-right: 8px;">At the Silverspoon, each day begins long before our doors open. Seasonal produce, much of it locally grown and organic, is being unloaded. Fish arrives fresh from sustainable and best-practice fisheries. Humanely, farm raised meats and whole poultry are carefully trimmed, and prepared. Our classically trained chefs are busy orchestrating dishes which weave this daily bounty into a Contemporary American treat for your palate.</p>
+
+<p>The casual atmosphere features large windows that flood the room with sun during the day, and transforms evening into a relaxed candle-lit dining experience. But the food provides the essential colors here. In fact, dining at The Silverspoon is a treat for all your senses, from our sumptuous starters through our irresistible desserts.</p>
+
+<br/>
+<p><a href="http://localhost/ss_simon_theme/wp-content/uploads/2011/10/chicken1.png"><img src="http://localhost/ss_simon_theme/wp-content/uploads/2011/10/chicken1-300x218.png" alt="" title="chicken" width="300" height="218" class="alignright size-medium wp-image-308 grey_border" /></a>Service is warm and professional. Bring your own bottle and we'll serve it in classic crystal stemware with no corkage fee. Your server works closely with the kitchen and will cheerfully answer any questions you may have about the menu.</p>
+
+<P>We hope to see you soon. The management does suggest dinner reservations especially for the weekend and for parties of 5 or more.</P>

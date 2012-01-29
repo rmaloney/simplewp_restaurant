@@ -1,0 +1,22 @@
+.lof-slidecontent, .lof-slidecontent a {	color:#FFF;	}
+.lof-container {}.lof-slidecontent{	position: relative;}
+.lof-slidecontent .preload{	position:absolute;	top:0;	left:0;	z-index:2; height: 100%; width: 100%;}
+.lof-main-outer {position: relative; overflow:hidden;}
+.lof-main-outer .lof-next,  .lof-main-outer .lof-previous{	display:block;	width:40px;	color:#FFF;	cursor:pointer;	position:absolute;	height:100%;	top:0;}
+.lof-main-outer .lof-next {	right:10px;}
+.lof-main-outer .lof-previous {	left:10px;}
+.lof-main-wapper li {border: none !important;}
+
+/* main flash */
+ul.lof-main-wapper{	/* margin-right:auto; */	background: transparent;	padding:0 !important;	margin:0 !important;	position: relative;}
+ul.lof-main-wapper li{	padding:0 !important;	margin:0 !important;	float:left;	list-style: none;	position:relative;}
+ul.lof-main-wapper li a img {border:none !important;}
+.lof-opacity {	overflow:visible  !important;;	position:absolute !important;}
+.lof-opacity  li{	position:absolute  !important;;	top:0;	left:0;	margin:0;	padding:0;	float:inherit  !important;}
+ul.lof-main-wapper li img{	padding:0 !important; margin:0 !important; max-width: none !important; }
+
+/* item navigator */.lof-navigator-wapper {	position:absolute;}
+.lof-navigator-outer{	position:relative;	z-index:1;	height:180px;	overflow:hidden;	color:#FFF;	margin:0;	padding:0;}ul.lof-navigator{	top:0;	padding:0;	margin:0;	position:relative;	width:100%;}
+ul.lof-navigator li{	cursor:pointer;	list-style:none;	padding:0;	margin: 0;	overflow:hidden;	float:left;	display:block;	text-align:left; border: none !important;}
+ul.lof-navigator li span {	display: none;}
+ul.lof-navigator li.active {		display:block;}

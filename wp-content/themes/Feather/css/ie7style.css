@@ -1,0 +1,6 @@
+a { cursor: pointer; }
+#menu { z-index: 30 !important; position: relative !important; }
+#featured { z-index: 1 !important; position: relative !important; }
+
+#featured #controllers { padding-left: 450px; }
+	#featured #controllers a { display: block !important; float: left; }

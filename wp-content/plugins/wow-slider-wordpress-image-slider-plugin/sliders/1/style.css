@@ -1,0 +1,159 @@
+/* bottom center */
+#wowslider-container1 .ws_bullets {
+	top:0;
+    right: 0;
+}
+
+#wowslider-container1 { 
+/*	overflow: hidden; */
+	zoom: 1; 
+	position: relative; 
+	width:580px;
+	height:212px;
+	margin:0 auto;
+	z-index:100;
+}
+#wowslider-container1 .ws_shadow{
+	width:100%;
+	background: url(./shadow.png) left 100%;
+	height:18px;
+	position: absolute;
+	left:0;
+	bottom:-18px;
+	z-index:-1;
+}
+#wowslider-container1 .ws_images{
+	position: absolute;
+	left:0px;
+	top:0px;
+	width:580px;
+	height:212px;
+	overflow:hidden;
+}
+#wowslider-container1 .ws_images a{
+	color:transparent;
+}
+
+#wowslider-container1 .ws_images img{
+	top:0;
+	left:0;
+	border:none 0;
+}
+#wowslider-container1 a{ 
+	text-decoration: none; 
+	outline: none; 
+	border: none; 
+}
+
+#wowslider-container1  .ws_bullets { 
+	font-size: 0px; 
+	padding: 10px; 
+	float: left;
+	position:absolute;
+	z-index:70;
+}
+#wowslider-container1  .ws_bullets div{
+	position:relative;
+	float:left;
+}
+#wowslider-container1 .ws_bullets a { 
+	margin-left:4px;
+	width:8px;
+	height:15px;
+	background: url(./bullet.png) left 50% no-repeat;
+	float: left; 
+	text-indent: -1000px; 
+	position:relative;
+}
+#wowslider-container1 .ws_bullets a.ws_selbull, #wowslider-container1 .ws_bullets a:hover{
+	background-position: right 50%;
+}
+#wowslider-container1 a.ws_next, #wowslider-container1 a.ws_prev {
+	position:absolute;
+	display:none;
+	top:50%;
+	margin-top:-28px;
+	z-index:60;
+	height: 62px;
+	width: 38px;
+	background-image: url(./arrows.gif);
+}
+#wowslider-container1 a.ws_next{
+	background-position: 100% 0;
+	right:-8px;
+}
+#wowslider-container1 a.ws_prev {
+	left:-8px;
+	background-position: 0 0; 
+}
+#wowslider-container1 a.ws_next:hover{
+	background-position: 100% 100%;
+}
+#wowslider-container1 a.ws_prev:hover {
+	background-position: 0 100%; 
+}
+* html #wowslider-container1 a.ws_next,* html #wowslider-container1 a.ws_prev{display:block}
+#wowslider-container1:hover a.ws_next, #wowslider-container1:hover a.ws_prev {display:block}
+#wowslider-container1 .ws-title{
+	position: absolute;
+	bottom:50px;
+	left: 0;
+	margin-right:5px;
+	z-index: 50;
+	padding:12px;
+	color: #F9FBFB;
+	text-transform:uppercase;
+	background:#000000;
+    font-family: Helvetica,Arial,Verdana,sans-serif;
+	font-size: 18px;
+}
+#wowslider-container1 .ws-title div{
+	padding-top:5px;
+	font-size: 13px;
+	text-transform:none;
+}#wowslider-container1 .ws_bullets  a img{
+	text-indent:0;
+	display:block;
+	top:16px;
+	left:-123px;
+	visibility:hidden;
+	position:absolute;
+    -moz-box-shadow: 0 0 5px #999999;
+    box-shadow: 0 0 5px #999999;
+    border: 5px solid #FFFFFF;
+}
+#wowslider-container1 .ws_bullets a:hover img{
+	visibility:visible;
+}
+
+#wowslider-container1 .ws_bulframe div div{
+	height:90px;
+	overflow:visible;
+	position:relative;
+}
+#wowslider-container1 .ws_bulframe div {
+	left:0;
+	overflow:hidden;
+	position:relative;
+	width:246px;
+}
+#wowslider-container1  .ws_bullets .ws_bulframe{
+	display:none;
+	top:20px;
+	overflow:visible;
+	position:absolute;
+	cursor:pointer;
+    -moz-box-shadow: 0 0 5px #999999;
+    box-shadow: 0 0 5px #999999;
+    border: 5px solid #FFFFFF;
+}
+#wowslider-container1 .ws_bulframe span{
+	display:block;
+	position:absolute;
+	top:-11px;
+	margin-left:-9px;
+	left:123px;
+	background:url(./triangle.png);
+	width:15px;
+	height:6px;
+}

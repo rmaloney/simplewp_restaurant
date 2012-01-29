@@ -1,0 +1,17 @@
+span.sf-sub-indicator { padding-left: 2px; }
+a.readmore, .reply-container { display: inline !important; background: none !important; }
+
+#left-area, #sidebar { display: inline; }
+
+a { cursor: pointer; }
+
+#top-header { z-index: 2; }
+#bottom-header { z-index: 1; }
+ul#top-menu li.menu-gradient { display: none; }
+
+h3#recommended, h3#recommended span, p#submit-container input#submit, p#submit-container { background: none; }
+
+a.readmore, .reply-container a { color: #000; }
+a.readmore span, .rating-container, .rating-inner, .reply-container, .reply-container a { background: none; }
+
+#left-area { width: 620px; }

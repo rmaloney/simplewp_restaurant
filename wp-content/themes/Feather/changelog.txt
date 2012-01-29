@@ -1,0 +1,26 @@
+version 1.5
+- Updated thumbnail function to clear unused images
+- Updated templates with improved coding structure
+- Fixed sample data images bug
+- Fixed featured slider bugs caused by new jQuery version
+
+version 1.4
+- Updated thumbnail function to better detect root folder. Thumbnails
+  must now be hosted within the same root folder as WordPress. 
+    * epanel/custom_functions.php
+
+version 1.3
+- Removed timthumb due to known vulnerabilities
+    * deleted timthumb.php, cache and temp folders
+    * modified 'epanel/custom_functions.php', 'epanel/options_themename.php'
+
+version 1.2
+- fixed reversed description on homepage ( https://www.elegantthemes.com/forum/viewtopic.php?f=40&t=61103&p=255576#p255576 )  ( 'epanel/options_feather.php' )
+- fixed epanel font family settings - settings didn't apply because of esc_attr() ( functions.php )
+- fixed control panel validation issue ( js/et_control_panel.js )
+- updated theme version ( style.css )
+
+version 1.1
+- Performed extensive performance and security enhancements. 
+    * All files were updated. 
+

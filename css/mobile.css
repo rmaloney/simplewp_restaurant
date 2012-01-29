@@ -1,0 +1,8 @@
+
+
+html {
+-webkit-text-size-adjust: auto; /* Automatically adjusted for Safari on iPhone. */
+-ms-text-size-adjust: auto; 
+}
+
+img { max-width: 100%; }
